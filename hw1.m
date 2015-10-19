@@ -86,8 +86,8 @@ void AHM(Mat I, int blockSize){
 	int fQ21;
 	int fQ22;
 
-	for(int i = rowUpBorder; i < rowDownBorder; i++){
-		for(int j = rowUpBorder; j < colLeftBorder; j++){
+	for(int i = 0; i < nRows; i++){
+		for(int j = 0; j < nCols; j++){
 			//find 4 neighbor tile's center
 			tile_x = (i+1) / blockSize;
 			tile_y = (j+1) / blockSize;
