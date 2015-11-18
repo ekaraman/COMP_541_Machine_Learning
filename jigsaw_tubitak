@@ -1,1 +1,12 @@
+Öğretmen ve Öğrenci çizimlerinin Jigsmodel ile tanınması?
+
+Jigsaw Model nedir?
+Jigsaw parça tabanlı bilgisayar görüntüleme uygulamasıdır. Parça tabanlı modeller  resimlerde bulunan objelerin görünüm
+ve şekillerinin öğrenilmesi maksadıyla kullanılmaktadır. Jigsaw model bir resimde tekrar eden parçaların şekil, görünüm
+ve parça boyutlarını unsupervised bir şekile öğrenerek sınıfndırabilmektedir. Jigsaw model bir resimde bulunan parçalara
+ait sadece gerekli bilgileri içeren kaynak resimden daha küçük boyutta bir resim oluşturmakta ve bim jigsaw olarak 
+isimlendirilmektedir. Oluşturulan jigsaw kaynak resimdeki gerekli tüm bilgileri içerdiğinden sadece jigsaw resmi
+kullanılarak kaynak resim yeniden üretilebilmekte ve kaynak resimde tekrar eden şekillerek unsupervised tanınanrak 
+sınıflandırılamktadır.Aşağıda kaynak bir resimden oluşturulan jigsaw ile sadece jigsawdaki bilgiler kullanılarak
+oluşturulan kaynak resim ve objelerin sınıflandırılmaları gösterilmiştir.
 
