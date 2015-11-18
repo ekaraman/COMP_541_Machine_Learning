@@ -10,3 +10,19 @@ kullanılarak kaynak resim yeniden üretilebilmekte ve kaynak resimde tekrar ede
 sınıflandırılamktadır.Aşağıda kaynak bir resimden oluşturulan jigsaw ile sadece jigsawdaki bilgiler kullanılarak
 oluşturulan kaynak resim ve objelerin sınıflandırılmaları gösterilmiştir.
 
+Bir resimden elde edilen jigsaw'un aşağıdaki özelliklere sahip olması gerekemktedir:
+1.Benzerlik: Jigsawda bulunan her bir parça eğitici resimdeki birçok paraçaya görünüm ve şekil olarak benzemelidir.
+2.Yeniden yaratma: Sadece jigsaedaki parçalar kullanılarak eğitici resim yeniden yaratılabilmelidir.
+3.Büyüklük: Jigsawdaki parçalar yeniden yapılandırma neticesinde oluşan resmin bütünlüğünü sağlaması açısından mümkün
+olduğu kadar büyük olmalıdır.
+
+Yukurıda belirtilen 3 özelliği sağlayan jigsaw resim kullanılarak bir resimde bulunan tekrar eden parçaların görünüm ve
+şekilleri öğrenilebilmektedir.
+
+Halihazırda jigsaw model makalede anlatıldığı şekilde oluşturulmuştur. Oluşturulan bu modelin öğrenci ve öğretmenler
+tarafından yapılan çizim ve işaretlemelerin tanınması maksadıyla kullanılabileceği değerlendirilmektedir. Öğrenciler 
+tarafından sorulara verilen cevaplar ile öğretmenlerin işaretlemelerinin tekrar eden yapılar içermesi açısandan jigsaw
+model ile uyumlu olduğu görülmektedir. 
+
+Müteakip dönemde elde edilen jigsaw model öğrenci ve öğretmenlerin işaretlemelerinin tanınmasını sağlayacak şekilde
+uyarlanacaktır.
