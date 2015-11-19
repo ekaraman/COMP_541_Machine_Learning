@@ -1,14 +1,14 @@
-Öğretmen ve Öğrenci çizimlerinin Jigsmodel ile tanınması?
+Öğretmen ve Öğrenci Çizimlerinin Jigsaw Model ile Tanınması
 
 Jigsaw Model nedir?
+
 Jigsaw parça tabanlı bilgisayar görüntüleme uygulamasıdır. Parça tabanlı modeller  resimlerde bulunan objelerin görünüm
 ve şekillerinin öğrenilmesi maksadıyla kullanılmaktadır. Jigsaw model bir resimde tekrar eden parçaların şekil, görünüm
-ve parça boyutlarını unsupervised bir şekile öğrenerek sınıfndırabilmektedir. Jigsaw model bir resimde bulunan parçalara
-ait sadece gerekli bilgileri içeren kaynak resimden daha küçük boyutta bir resim oluşturmakta ve bim jigsaw olarak 
-isimlendirilmektedir. Oluşturulan jigsaw kaynak resimdeki gerekli tüm bilgileri içerdiğinden sadece jigsaw resmi
-kullanılarak kaynak resim yeniden üretilebilmekte ve kaynak resimde tekrar eden şekillerek unsupervised tanınanrak 
-sınıflandırılamktadır.Aşağıda kaynak bir resimden oluşturulan jigsaw ile sadece jigsawdaki bilgiler kullanılarak
-oluşturulan kaynak resim ve objelerin sınıflandırılmaları gösterilmiştir.
+ve parça boyutlarını gözetimsiz (unsupervised) bir şekile öğrenerek sınıflanndırabilmektedir. Jigsaw model bir resimde bulunan parçalara
+ait sadece gerekli bilgileri içeren kaynak resimden daha küçük boyutta "Jigsaw" olarak adlandırılan bir resim oluşturmaktadır. 
+Oluşturulan jigsaw, kaynak resimdeki gerekli tüm bilgileri içerdiğinden sadece jigsaw resmi
+kullanılarak kaynak resim yeniden üretilebilmekte ve kaynak resimde tekrar eden şekillerek gözetimsiz tanınanarak 
+sınıflandırılabilmktedir.
 
 Bir resimden elde edilen jigsaw'un aşağıdaki özelliklere sahip olması gerekemktedir:
 1.Benzerlik: Jigsawda bulunan her bir parça eğitici resimdeki birçok paraçaya görünüm ve şekil olarak benzemelidir.
@@ -17,12 +17,10 @@ Bir resimden elde edilen jigsaw'un aşağıdaki özelliklere sahip olması gerek
 olduğu kadar büyük olmalıdır.
 
 Yukurıda belirtilen 3 özelliği sağlayan jigsaw resim kullanılarak bir resimde bulunan tekrar eden parçaların görünüm ve
-şekilleri öğrenilebilmektedir.
+şekilleri öğrenilebilmektedir. Aşağıda kaynak bir resimden oluşturulan jigsaw, jigsawdaki bilgiler kullanılarak
+oluşturulan kaynak resim ve jigsaw kullanılarak oluşturulan kaynak resimdeki objelerin sınıflandırılmaları gösterilmiştir.
 
 Halihazırda jigsaw model makalede anlatıldığı şekilde oluşturulmuştur. Oluşturulan bu modelin öğrenci ve öğretmenler
-tarafından yapılan çizim ve işaretlemelerin tanınması maksadıyla kullanılabileceği değerlendirilmektedir. Öğrenciler 
-tarafından sorulara verilen cevaplar ile öğretmenlerin işaretlemelerinin tekrar eden yapılar içermesi açısandan jigsaw
-model ile uyumlu olduğu görülmektedir. 
-
-Müteakip dönemde elde edilen jigsaw model öğrenci ve öğretmenlerin işaretlemelerinin tanınmasını sağlayacak şekilde
-uyarlanacaktır.
+tarafından yapılan çizim ve işaretlemelerin tekrar eden yapılar içermesi açısandan jigsaw
+model ile uyumlu olduğu değerlendirilmektedir. Müteakip dönemde elde edilen jigsaw model, öğrenci ve öğretmenlerin 
+işaretlemelerinin tanınmasını sağlayacak şekilde uyarlanacaktır.
