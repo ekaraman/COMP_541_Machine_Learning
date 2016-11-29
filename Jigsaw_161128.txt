@@ -1,0 +1,3 @@
+Emre, 
+
+Latent slide'ini unutalim, cunku aslinda latent sketch bir real sketch'e ait latent sketchtir. Aslinda benim sana anlatirken yaptigim gibi latent ve real sketch ayni kanvasta cizilmeli, Ancak latent'i "kullanicinin aklinda hedefledigi sekli" belirtmek amaciyla soluk renkle cizebilirsin.). Bu sekilde slide'indaki tutarsizlik hala gecerli. Real sketch icin (slide 5) x offset ve x offset degerlerinin 0 olmamasi lazim. 
